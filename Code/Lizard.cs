@@ -91,7 +91,7 @@ namespace LizardAI
 				{
 					if (Hovering)
 					{
-						p.Playing = true;
+						State = LizardState.Chuckle;
 					}
 					else
 					{
