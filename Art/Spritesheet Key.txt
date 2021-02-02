@@ -1,0 +1,14 @@
+Row	Pose
+-----------------------------
+0	Idle
+1	Cough
+2	Chuckle
+3	Fart
+4	Rip
+
+States:
+Idle - Politely smiles with arms behind back, occasionally coughs
+Cough - Politely covers mouth to clear throat, returns to idle
+Chuckle - On Mouse Over, tries to hold polite smile and hide laughter, returns to cough On Mouse Leave
+Fart - On Mouse Click, proudly rips ass, returns to chuckle
+Rip - On Key Press, rips too much ass and smile drops from face, application terminates
